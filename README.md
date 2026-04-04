@@ -104,19 +104,6 @@ The configuration file `config.py` contains the following main configurations：
 - Model parameters
 - Preprocessing settings
 
-## Citation
-
-If you use this project, please cite the following paper：
-
-```
-@article{PGDC2026T-BIOM,
-  title={PGDC: A Physiology-Guided Divide-and-Conquer Framework for
-Cross-Time Drift-Resilient ECG Biometric Recognition},
-  author={Jiafeng Qiu, Kangli Yan, Zhixuan You, Gang Shen},
-  journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
-  year={2026}
-}
-```
 
 ## Contact
 
