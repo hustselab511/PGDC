@@ -104,12 +104,6 @@ The configuration file `config.py` contains the following main configurations：
 - Model parameters
 - Preprocessing settings
 
-
-## Contact
-
-- Project homepage：<https://github.com/hustselab511/PGDC>
-- Issue tracking：<https://github.com/hustselab511/PGDC/issues>
-
 ## Changelog
 
 ### v1.0.0
